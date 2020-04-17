@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b7e427-3c10-4b22-909f-d61b940aeec5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_first.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_guide.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_guide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_history.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_first.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_guide.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_guide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_history.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/literature.html" beforeDir="false" afterPath="$PROJECT_DIR$/literature.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/selectors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +42,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\YourBackup\Documents\CS\2course\Web\Site" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,7 +63,7 @@
       <workItem from="1586991982233" duration="5000" />
       <workItem from="1587039337330" duration="26801000" />
       <workItem from="1587070600343" duration="602000" />
-      <workItem from="1587141551031" duration="1803000" />
+      <workItem from="1587141551031" duration="2679000" />
     </task>
     <servers />
   </component>
