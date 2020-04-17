@@ -1,0 +1,39 @@
+#tags{
+    background-color: #fffde6;
+    background-position:center;
+}
+
+text{
+    font-size: 24px;
+    margin: 10px 50px;
+    padding: 10px 15px;
+    text-align: center;
+}
+#literature{
+    color: #72438f;
+    position: absolute;
+    right: 50px;
+    font-size: 20px;
+    padding: 2px;
+}
+.table{
+    background-color: white;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 24px;
+    border: 1px solid  rgba(133, 133, 133, 0.95);
+    margin: 10px 20px;
+}
+.table-striped > tbody > tr:nth-of-type(odd) {
+     background-color: #f9f9f9;
+}
+.table-hover > tbody > tr:hover {
+    background-color: rgba(133, 133, 133, 0.95);
+    color: cornsilk;
+}
+a{
+    color: #fe5c8d;
+}
+a:hover{
+    color: white;
+}

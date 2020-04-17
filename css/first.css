@@ -1,0 +1,110 @@
+body, html {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100%;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    background-position: center;
+    background-size: cover;
+}
+
+.tags{
+    background-image:url("../images/htmltag.jpg");
+}
+
+.history{
+    background-image:url("../images/history.jpg");
+}
+
+.selectors{
+    background-image:url("../images/css-select.png");
+}
+
+.css-history{
+    background-image:url("../images/css-history.jpg");
+}
+
+.tag-position{
+    top: 50%;
+    text-align: left;
+    left: 45%;
+}
+
+.history-position{
+    top: 150%;
+    text-align: right;
+    right: -35%;
+}
+
+.text{
+    font-size: 24px;
+    padding: 2px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+}
+
+.html-color{
+    color: rgb(255, 253, 230);
+}
+
+.css-color{
+    background-color: rgba(255, 255, 255, 0.4);
+    color: rgb(29, 24, 28);
+}
+
+.button{
+    position: absolute;
+    bottom: -90px;
+    border-radius: 5px;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 2px;
+    opacity: 0.7;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button:hover{
+    opacity: 1;
+}
+
+.button:focus {
+    outline:0;
+}
+
+.Right{
+    right: -100px;
+}
+
+.Left{
+    left: -100px;
+}
+
+.green{
+    background-color: #d5ff63;
+    color: #22b906;
+    border: 2px #22b906 solid;
+}
+
+.brown{
+    background-color: #fff1bb;
+    color: #a87d3f;
+    border: 2px #a87d3f solid;
+}
+
+.red{
+    background-color: #ffb6c2;
+    color: #fb3829;
+    border: 2px #fb3829 solid;
+}
